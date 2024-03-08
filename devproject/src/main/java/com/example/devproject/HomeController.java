@@ -10,6 +10,6 @@ public class HomeController {
     @GetMapping("/")
     @ResponseBody
     public String home() {
-        return "Hi from this project";
+        return "Yean Da Kadupa iruka";
     }
 }
